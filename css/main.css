@@ -152,7 +152,7 @@ img {
   font-weight: 900;
   font-size: 72px;
   line-height: 72px;
-  width: 493px;
+  max-width: 493px;
   color: #FEFCF7;
   margin-bottom: 32px;
 }
